@@ -11,9 +11,12 @@ body {
   min-height: 100%;
 }
 
+img {
+  border-radius: 50%;
+}
+
 .page-header {
   text-align: center;
   margin: 1rem;
   font-size: 4rem;
-  background-color: pink;
 }
